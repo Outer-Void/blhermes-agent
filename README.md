@@ -4,6 +4,10 @@
 
 # BLHermes Agent ☤
 >- *(BLUX Assimilated)*
+>- BLHermes has served as transitional scaffolding and contains upstream Hermes history. Once BLUX has independently satisfied the runtime-parity/deletion gate, there is very little upside to physically erasing that historical record.
+
+>- BLHermes → preserved historical/upstream provenance
+>- BLUX → living implementation and authority
 
 BLHermes Agent is a fork of the Nous Research agent. The installation commands,
 package feeds, hosted documentation, and release services linked below remain
